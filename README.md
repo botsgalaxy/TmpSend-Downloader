@@ -7,7 +7,7 @@ A simple file downloader for tmpsend.com, written in Go.
 
 ## Overview
 
-TmpSend Go Downloader is a lightweight and efficient tool designed for downloading files from tmpsend.com using the Go programming language. With a focus on simplicity and performance, it provides a straightforward way to fetch files from the platform seamlessly.
+TmpSend Downloader is a lightweight and efficient tool designed for downloading files from tmpsend.com using the Go programming language. With a focus on simplicity and performance, it provides a straightforward way to fetch files from the platform seamlessly.
 
 ## Features
 
@@ -18,7 +18,7 @@ TmpSend Go Downloader is a lightweight and efficient tool designed for downloadi
 
 ## Usage
 
-To use the TmpSend Go Downloader, follow these simple steps:
+To use the TmpSend Downloader, follow these simple steps:
 
 1. **Download the Binary Release:**
    - Visit the [Release Section](https://github.com/botsgalaxy/TmpSend-Downloader/releases) of our GitHub repository.
